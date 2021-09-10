@@ -10,4 +10,5 @@ citation: 'Veiber, Lisa, Salah Ghamizi and Jean-Sébastien Sottet. “A Hybrid P
 ---
 [Download paper here](https://www.semanticscholar.org/paper/a665b89d4c0ff7c636aad7060a2b39b2fc560693)
 
+
 Recommended citation: Veiber, Lisa, Salah Ghamizi and Jean-Sébastien Sottet. “A Hybrid Predictive Model for Mitigating Health and Economic Factors during a Pandemic.” ERCIM News 2021 (2021).
