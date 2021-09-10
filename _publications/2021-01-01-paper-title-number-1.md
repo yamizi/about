@@ -2,7 +2,7 @@
 title: "A Hybrid Predictive Model for Mitigating Health and Economic Factors during a Pandemic"
 collection: publications
 permalink: /publication/covid-hybrid
-excerpt: ''
+excerpt: 'We have developed a machine learning (ML) driven approach, intended to function as an instrumental backup to the economic recovery strategy and ensure granular mitigation of the pandemic’s effects. Our approach is complemented by human-centric modelling of the impacted ecosystem, including social, economic and health aspects. This model-based approach aims to correct the potential lack of data; fine-tuning the ML results and providing better user control. Ultimately, we aim to deliver a decision-making tool that helps find the right balance between health protection and economic recovery.'
 date: 2021-01-01
 venue: 'ERCIM News'
 paperurl: ''
