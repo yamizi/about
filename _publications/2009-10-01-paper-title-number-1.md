@@ -3,7 +3,7 @@ title: "A Hybrid Predictive Model for Mitigating Health and Economic Factors dur
 collection: publications
 permalink: /publication/covid-hybrid
 excerpt: ''
-date: 2021
+date: 2021-01-01
 venue: 'ERCIM News'
 paperurl: 'https://www.semanticscholar.org/paper/a665b89d4c0ff7c636aad7060a2b39b2fc560693'
 citation: 'Veiber, Lisa, Salah Ghamizi and Jean-Sébastien Sottet. “A Hybrid Predictive Model for Mitigating Health and Economic Factors during a Pandemic.” ERCIM News 2021 (2021).'
