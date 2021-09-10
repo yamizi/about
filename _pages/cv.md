@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 * B.S. in Computer Science, Mines Nancy (2012-2014)
 * M.S. in Artificial Intelligence and Robotics, Mines Nancy (2014-2016)
 * I-Corps/ Msc Entrepreneurship & Management of Innovative Businesses, Georgia Tech & IAE Metz  (2016-2017)

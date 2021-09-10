@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Software Testing @ Bachelor level"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2021-software-testing
+venue: "University of Luxembourg, Bachelor of Software Engineering"
+date: 2021-01-01
+location: "Luxembourg, Luxembourg"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Main Teaching Assistant under the supervision of Pr. Yves Le Traon.
+In charge of the practicals, the capstone project and 3 lectures about Testing of Machine Learning Based Software.
