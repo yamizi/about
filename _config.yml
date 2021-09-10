@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me - Salah GHAMIZI, University of Luxembourg"
+title                    : "Salah GHAMIZI, University of Luxembourg"
 title_separator          : "-"
 name                     : &name "Salah GHAMIZI"
-description              : &description "personal description"
+description              : &description "My public research page"
 url                      : "https://yamizi.github.io/page/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yamizi/page"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Salah GHAMIZI"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student, PhD student in the of Pr. Le Traon"
+  bio              : "Graduate Student, PhD student under the supervision of Pr. Le Traon"
   location         : "Luxembourg"
   employer         : "University of Luxembourg"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
