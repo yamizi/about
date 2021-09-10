@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Data-driven Simulation and Optimization for Covid-19 Exit Strategies"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/covid-kdd
+excerpt: 'The rapid spread of the Coronavirus SARS-2 is a major challenge that led almost all governments worldwide to take drastic measures to respond to the tragedy. Chief among those measures is the massive lockdown of entire countries and cities, which beyond its global economic impact has created some deep social and psychological tensions within populations. While the adopted mitigation measures (including the lockdown) have generally proven useful, policymakers are now facing a critical question: how and when to lift the mitigation measures? A carefully-planned exit strategy is indeed necessary to recover from the pandemic without risking a new outbreak. Classically, exit strategies rely on mathematical modeling to predict the effect of public health interventions. Such models are unfortunately known to be sensitive to some key parameters, which are usually set based on rules-of-thumb. In this paper, we propose to augment epidemiological forecasting with actual data-driven models that will learn to fine-tune predictions for different contexts (e.g., per country). We have therefore built a pandemic simulation and forecasting toolkit that combines a deep learning estimation of the epidemiological parameters of the disease in order to predict the cases and deaths, and a genetic algorithm component searching for optimal trade-offs/policies between constraints and objectives set by decision-makers. Replaying pandemic evolution in various countries, we experimentally show that our approach yields predictions with much lower error rates than pure epidemiological models in 75% of the cases and achieves a 95% R² score when the learning is transferred and tested on unseen countries. When used for forecasting, this approach provides actionable insights into the impact of individual measures and strategies.'
+date: 2020
+venue: 'KDD'
+paperurl: 'https://www.semanticscholar.org/paper/14996cc316d471b84124c77ef9ff5922ad97b155'
+citation: 'Ghamizi, S., Rwemalika, R., Veiber, L., Cordy, M., Bissyandé, T.F., Papadakis, M., Klein, J., & Traon, Y.L. (2020). Data-driven Simulation and Optimization for Covid-19 Exit Strategies. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+[Download paper here](https://www.semanticscholar.org/paper/14996cc316d471b84124c77ef9ff5922ad97b155)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Ghamizi, S., Rwemalika, R., Veiber, L., Cordy, M., Bissyandé, T.F., Papadakis, M., Klein, J., & Traon, Y.L. (2020). Data-driven Simulation and Optimization for Covid-19 Exit Strategies. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining.

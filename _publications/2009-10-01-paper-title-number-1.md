@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "A Hybrid Predictive Model for Mitigating Health and Economic Factors during a Pandemic"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/covid-hybrid
+excerpt: ''
+date: 2021
+venue: 'ERCIM News'
+paperurl: 'https://www.semanticscholar.org/paper/a665b89d4c0ff7c636aad7060a2b39b2fc560693'
+citation: 'Veiber, Lisa, Salah Ghamizi and Jean-Sébastien Sottet. “A Hybrid Predictive Model for Mitigating Health and Economic Factors during a Pandemic.” ERCIM News 2021 (2021).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](https://www.semanticscholar.org/paper/a665b89d4c0ff7c636aad7060a2b39b2fc560693)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Veiber, Lisa, Salah Ghamizi and Jean-Sébastien Sottet. “A Hybrid Predictive Model for Mitigating Health and Economic Factors during a Pandemic.” ERCIM News 2021 (2021).
