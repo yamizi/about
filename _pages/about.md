@@ -22,4 +22,4 @@ Part of my work has been done with an Industrial Partner (BGL BNP-Parisbas), and
 I tackle real-life problems where reliable and robust machine learning is of utmost importance. My previous work includes credit scoring and fraud detection, steganography and secure communication, pandemic forecasting and mitigation, using evolutionary optimization approaches, multi-task and multi-label learning.
  
 
-You can find an extended version of my CV as a [PDF file](../files/cv.pdf).
+You can find an extended version of my CV as a [PDF file](https://yamizi.github.io/page/files/cv.pdf).
