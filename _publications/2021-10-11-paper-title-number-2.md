@@ -6,9 +6,9 @@ excerpt: 'Evasion Attacks have been commonly seen as a weakness of Deep Neural N
 date: 2021-10-11
 venue: 'ICCV 2021 - AROW'
 paperurl: ''
-citation: 'Ghamizi, Salah & Cordy, Maxime & Papadakis, Mike & Le Traon, Yves. (2021). Evasion Attack STeganography: Turning Vulnerability Of Machine Learning To Adversarial Attacks Into A Real-world Application. Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision. '
+citation: 'Ghamizi, S., Cordy, M., Papadakis, M., & Traon, Y.L. (2021). Evasion Attack STeganography: Turning Vulnerability Of Machine Learning To Adversarial Attacks Into A Real-world Application. Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision. '
 ---
 [Download paper here](https://www.researchgate.net/publication/353934286_Evasion_Attack_STeganography_Turning_Vulnerability_Of_Machine_Learning_To_Adversarial_Attacks_Into_A_Real-world_Application)
 
 
-Recommended citation: Ghamizi, Salah & Cordy, Maxime & Papadakis, Mike & Le Traon, Yves. (2021). Evasion Attack STeganography: Turning Vulnerability Of Machine Learning To Adversarial Attacks Into A Real-world Application. Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision.
+Recommended citation: Ghamizi, S., Cordy, M., Papadakis, M., & Traon, Y.L. (2021). Evasion Attack STeganography: Turning Vulnerability Of Machine Learning To Adversarial Attacks Into A Real-world Application. Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision.
