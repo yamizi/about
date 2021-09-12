@@ -39,13 +39,13 @@ Work Experience
 ======
 
 * *R&D Engineer*
-LumApps SAS, March 2018 Dec 2018
+ @ LumApps SAS, 2018-2019
 
 In charge of the improvements and deployment process of the platform of some of the company’s major clients (Decathlon, Veolia,…) and implemented third party API integration Set up the open-source SDK of the company, and supervised the continuous delivery & testing architecture of the SDK.
 
 
 * *Co-founder and CTO*
-WAZA Education, 
+ @ WAZA Education, 2016-2018
 
 Fullstack lead engineer of a team of 3 people
 
