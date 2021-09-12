@@ -9,16 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-* B.S. in Computer Science, Mines Nancy (2012-2014)
-* M.S. in Artificial Intelligence and Robotics, Mines Nancy (2014-2016)
-* I-Corps/ Msc Entrepreneurship & Management of Innovative Businesses, Georgia Tech & IAE Metz  (2016-2017)
-* Ph.D in PhD Candidate: Robust & Secure Deep Learning, University of Luxembourg (2019-2023 expected)
-
 You can find the complete CV as a [PDF file](https://yamizi.github.io/page/files/cv.pdf).
 
 
-##Education
-
+Education
+======
 
 * *Ph.D. Candidate: Robust & Secure Deep Learning*
 SnT - University of Luxembourg (2019-...)
@@ -40,7 +35,8 @@ Ghamizi, Salah & Cordy, Maxime & Papadakis, Mike & Le Traon, Yves. (2019). Autom
 * *Bachelor then Master in Artificial Intelligence and Robotics* 
 MinesNancy, School of Computer Science  (2012-2016)
 
-##Work Experience
+Work Experience
+======
 
 * *R&D Engineer*
 LumApps SAS, March 2018 Dec 2018
@@ -54,8 +50,8 @@ WAZA Education,
 Fullstack lead engineer of a team of 3 people
 
 
-##Awards & Volunteering
-
+Awards & Volunteering
+======
 
 * COVID-19 Task Force (2020) - 120k€ Grant from Luxembourg National Research Fund and AUF for 1-year research on Covid19 simulation and forecasting.
 
@@ -66,7 +62,8 @@ Fullstack lead engineer of a team of 3 people
 * Imagine Cup (2016) – Finalist of the competition held by Microsoft France for project Edstore.
 
 
-##Awards & Volunteering 
+Awards & Volunteering 
+======
 
 * Junior Chamber International (project leader)
 
