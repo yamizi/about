@@ -12,8 +12,8 @@ Welcome on my public research page. Feel free to get in touch through social med
 
 About Me
 ======
-I am a third year PhD student working at SnT — the Interdisciplinary Research Centre on Security, Reliability and Trust (SnT) of the University of Luxembourg.
-I am part of the Serval research group, under the supervision of Pr. Yves Le Traon, Pr. Mike Papadakis and Dr. Maxime Cordy.
+I am a postdoctoral researcher working at SnT — the Interdisciplinary Research Centre on Security, Reliability and Trust (SnT) of the University of Luxembourg.
+I am part of the Serval research group, and completed my PhD. under the direction of Pr. Yves Le Traon, Pr. Mike Papadakis and Dr. Maxime Cordy.
 
 My research activities lie at the intersection of Software Engineering, Machine Learning and Security. 
 My main topic is about the evaluattion and improvement of the robustness of machine learning algorithms.
