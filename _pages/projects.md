@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "FNR/Internship Projects"
+title: "FNR/Industrial projects"
 modified: 2021-09-06
 ---
 
