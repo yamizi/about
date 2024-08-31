@@ -12,10 +12,12 @@ Welcome on my public research page. Feel free to get in touch through social med
 
 About Me
 ======
-I am a postdoctoral researcher working at SnT — the Interdisciplinary Research Centre on Security, Reliability and Trust (SnT) of the University of Luxembourg.
-I am part of the Serval research group, and completed my PhD. under the direction of Pr. Yves Le Traon, Pr. Mike Papadakis and Dr. Maxime Cordy.
+I am a postdoctoral researcher working at LIST — Luxembourg Institute of Science and Technology.
+I am part of the ICES research group, and completed my PhD. under the direction of Pr. Yves Le Traon, Pr. Mike Papadakis and Dr. Maxime Cordy from the University of Luxembourg .
 
-My research activities lie at the intersection of Software Engineering, Machine Learning and Security. 
+My current research is on Physics Informed Graph Neural Networks, applied for sustainable energy operations.
+
+My PhD was at the intersection of Software Engineering, Machine Learning and Security. 
 My main topic is about the evaluattion and improvement of the robustness of machine learning algorithms.
 Part of my work has been done with an Industrial Partner (BGL BNP-Parisbas), and with other colleagues from the Covid19 Luxembourg Task Force.
 

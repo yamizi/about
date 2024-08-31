@@ -16,11 +16,13 @@ Education
 ======
 
 * *Ph.D. Candidate: Robust & Secure Deep Learning*
-SnT - University of Luxembourg (2019-...)
+SnT - University of Luxembourg (2019-2023)
 
 Selected papers: 
 
-Ghamizi, Salah & Cordy, Maxime & Papadakis, Mike & Le Traon, Yves. (2021). Evasion Attack STeganography: Turning Vulnerability Of Machine Learning To Adversarial Attacks Into A Real-world Application; ICCV21; to appear.
+Ghamizi, Salah & Zhang, Jingfeng & Cordy, Maxime & Papadakis, Mike & Sugiyama, Masashi & Le Traon, Yves. (2023). Gat: guided adversarial training with pareto-optimal auxiliary tasks; ICML23.
+
+Ghamizi, Salah & Cordy, Maxime & Papadakis, Mike & Le Traon, Yves. (2021). Evasion Attack STeganography: Turning Vulnerability Of Machine Learning To Adversarial Attacks Into A Real-world Application; ICCV21.
 
 Ghamizi, Salah & Renaud Rwemalika & al. (2020). Data-driven Simulation and Optimization for Covid-19 Exit Strategies. KDD 2020; Best Paper Award; DOI 10.1145/3394486.3412863.  
 
