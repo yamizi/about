@@ -6,6 +6,6 @@ excerpt: 'While adversarial robustness in computer vision is a mature research f
 date: 2024-12-09
 venue: 'NeurIPS 2024 (BECNHMARK)'
 paperurl: 'https://arxiv.org/pdf/2408.07579'
-citation: 'Simonetto, Thibault, Salah Ghamizi, and Maxime Cordy. "TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases." arXiv preprint arXiv:2408.07579 (2024).'
+citation: 'Simonetto, T., Ghamizi, S., and Cordy, M. "TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases." arXiv preprint arXiv:2408.07579 (2024).'
 ---
 [Download paper here](https://arxiv.org/pdf/2408.07579)

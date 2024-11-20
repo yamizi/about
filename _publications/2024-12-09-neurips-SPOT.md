@@ -6,6 +6,6 @@ excerpt: 'State-of-the-art deep learning models for tabular data have recently a
 date: 2024-12-09
 venue: 'NeurIPS 2024 (SPOTLIGHT)'
 paperurl: 'https://arxiv.org/pdf/2406.00775'
-citation: 'Simonetto, Thibault, Salah Ghamizi, and Maxime Cordy. "Constrained Adaptive Attack: Effective Adversarial Attack Against Deep Neural Networks for Tabular Data" arXiv preprint arXiv:2406.00775 (2024).'
+citation: 'Simonetto, T., Ghamizi, S., and Cordy, M. "Constrained Adaptive Attack: Effective Adversarial Attack Against Deep Neural Networks for Tabular Data" arXiv preprint arXiv:2406.00775 (2024).'
 ---
 [Download paper here](https://arxiv.org/pdf/2406.00775)
